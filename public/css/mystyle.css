@@ -1,0 +1,19 @@
+.icon-fab{
+    font-size: 300%;
+    color: #21c20b;
+   
+}
+
+.icon-fab :hover{
+    color: #2baac8;
+    transition-delay: 0.2s;
+
+}
+
+#zap{
+    position: fixed;
+    width: 60px;
+    height: 60px;
+    bottom: 15px;
+    right: 10px;
+}
