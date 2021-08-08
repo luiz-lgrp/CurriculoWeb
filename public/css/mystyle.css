@@ -17,3 +17,15 @@
     bottom: 15px;
     right: 10px;
 }
+
+#interests{
+    overflow: hidden;
+}
+
+#education{
+    overflow: hidden;
+}
+
+#experience{
+    overflow: hidden;
+}
