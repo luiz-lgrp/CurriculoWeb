@@ -6,7 +6,7 @@
 Animate On Scroll Library</P>
 <P>100% responsivo!</P>
 <br>
-<P>Link do site: https://curriculo-gustavo-rosa.web.app/ </P>
+<P>Link do site: https://curriculo-gustavo-rosa.firebaseapp.com/ </P>
 
 <img src="https://github.com/luiz-lgrp/CurriculoWeb/blob/main/midia/cweb.gif" width="800" height="400" />
 
