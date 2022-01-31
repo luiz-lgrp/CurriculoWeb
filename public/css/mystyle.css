@@ -1,3 +1,8 @@
+#page-top{
+  background: #eaeaea ;
+}
+
+
 .icon-fab {
   font-size: 300%;
   color: #21c20b;
@@ -28,7 +33,7 @@
   overflow: hidden;
 }
 ::-webkit-scrollbar {
-  width: 18px;
+  width: 10px;
 }
 
 ::-webkit-scrollbar-track {
@@ -38,6 +43,7 @@
 ::-webkit-scrollbar-thumb {
   background-color: #87e5fa;
   border-radius: 10px;
+  
   
  
 }
